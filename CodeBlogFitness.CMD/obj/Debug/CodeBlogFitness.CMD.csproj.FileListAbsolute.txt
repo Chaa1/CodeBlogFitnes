@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.CMD.exe.config
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.CMD.exe
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.CMD.pdb
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.BL.dll
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\bin\Debug\CodeBlogFitness.BL.pdb
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.csproj.CopyComplete
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.exe
+C:\Users\User\Desktop\CodeBlogFitness\CodeBlogFitness.CMD\obj\Debug\CodeBlogFitness.CMD.pdb
