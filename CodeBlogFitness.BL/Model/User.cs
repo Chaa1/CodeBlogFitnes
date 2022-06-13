@@ -9,6 +9,7 @@ namespace CodeBlogFitness.BL.Model
     /// <summary>
     /// Пользователь.
     /// </summary>
+    [Serializable]
     public class User
     {
         #region Свойства класса
@@ -61,10 +62,6 @@ namespace CodeBlogFitness.BL.Model
             BirthDate = dateTime;
             Weight = weight;
             Height = height;
-        }
-        public override string ToString()
-        {
-            return $"> User name: {UserName}\n  gender: {Gender}\n  birth day: {BirthDate}\n  weight; {Weight}\n  height: {Height}\n"; 
         }
     }
 }
