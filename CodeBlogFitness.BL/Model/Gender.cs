@@ -9,6 +9,7 @@ namespace CodeBlogFitness.BL.Model
     /// <summary>
     /// Пол.
     /// </summary>
+    [Serializable]
     public class Gender
     {
         /// <summary>
@@ -30,7 +31,7 @@ namespace CodeBlogFitness.BL.Model
         }
         public override string ToString()
         {
-            return $"  Name: {Name}\n";
+            return Name;
         }
     }
 }
